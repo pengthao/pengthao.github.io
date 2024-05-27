@@ -573,6 +573,8 @@ b, strong {
   border-radius: 12px;
 }
 
-.project-info {
+.project-info video{
   border-radius: 12px;
+  max-width: 940px;
+  height: auto;
 }
