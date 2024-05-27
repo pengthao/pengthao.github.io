@@ -575,6 +575,6 @@ b, strong {
 
 .project-info video{
   border-radius: 12px;
-  max-width: 940px;
+  max-width: 100%;
   height: auto;
 }
